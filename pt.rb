@@ -1,6 +1,6 @@
-PT_VERSION = '0.0.71'
-PT_GITREF = 'e6e1129632b8f2c9dfaf5d72ddd8ac230fee8588'
-PT_SHA256 = 'c5bfbcb94dcda1596a85d293d3393687b4a9dd52e8f8ffcd4a2ae287fcbbe679'
+PT_VERSION = '0.0.72'
+PT_GITREF = 'c9deaeecc773b664531a6e9dc4c7ce8289ad7ef3'
+PT_SHA256 = '6a67865ff55a252cf67223bab04ca45c7fe968f1b84a727cdc9c2b7a0b38bd78'
 
 
 class Pt < Formula
